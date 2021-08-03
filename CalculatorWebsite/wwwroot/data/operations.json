@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "1",
+        "name" : "Add",
+        "description" : "Addition"
+    },
+    {
+        "id" : "1",
+        "name" : "Sub",
+        "description" : "Subtraction"
+    },
+    {
+        "id" : "3",
+        "name" : "Mul",
+        "description" : "Multiplication"
+    },
+    {
+        "id" : "4",
+        "name" : "Div",
+        "description" : "Division"
+    }
+]
